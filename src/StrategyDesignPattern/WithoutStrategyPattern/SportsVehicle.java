@@ -1,6 +1,6 @@
-package WithoutStrategyPattern;
+package StrategyDesignPattern.WithoutStrategyPattern;
 
-public class OffRoadVehicle extends Vehicle{
+public class SportsVehicle extends Vehicle {
     @Override
     public void drive() {
         System.out.println("Sports vehicle capability");

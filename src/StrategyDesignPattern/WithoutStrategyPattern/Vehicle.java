@@ -1,4 +1,4 @@
-package WithoutStrategyPattern;
+package StrategyDesignPattern.WithoutStrategyPattern;
 
 public class Vehicle {
     public void drive() {
